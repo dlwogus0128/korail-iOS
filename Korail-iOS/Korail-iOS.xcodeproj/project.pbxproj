@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A36AA1CA292763A0002329FA /* TrainInquiryVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = A36AA1C9292763A0002329FA /* TrainInquiryVC.swift */; };
 		CEA59AD22923679600675429 /* UILabel+.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA59AD12923679600675429 /* UILabel+.swift */; };
 		CEA59AD4292367DF00675429 /* UITextField+.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA59AD3292367DF00675429 /* UITextField+.swift */; };
 		CEA59AD62923680E00675429 /* UIView+.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA59AD52923680E00675429 /* UIView+.swift */; };
@@ -33,6 +34,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A36AA1C9292763A0002329FA /* TrainInquiryVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrainInquiryVC.swift; sourceTree = "<group>"; };
 		CEA59AD12923679600675429 /* UILabel+.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UILabel+.swift"; sourceTree = "<group>"; };
 		CEA59AD3292367DF00675429 /* UITextField+.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UITextField+.swift"; sourceTree = "<group>"; };
 		CEA59AD52923680E00675429 /* UIView+.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+.swift"; sourceTree = "<group>"; };
@@ -236,6 +238,7 @@
 		CED3DFEF2922718D0046F4D4 /* TrainInquiryView */ = {
 			isa = PBXGroup;
 			children = (
+				A36AA1C9292763A0002329FA /* TrainInquiryVC.swift */,
 			);
 			path = TrainInquiryView;
 			sourceTree = "<group>";
@@ -359,6 +362,7 @@
 				CEA59ADA2923687C00675429 /* ApplyShadow.swift in Sources */,
 				CEA59AD62923680E00675429 /* UIView+.swift in Sources */,
 				CEAF53C7292280F0005BAB29 /* TabBarController.swift in Sources */,
+				A36AA1CA292763A0002329FA /* TrainInquiryVC.swift in Sources */,
 				CEAF53BC29227D1F005BAB29 /* ColorLiterals.swift in Sources */,
 				CEA59AD4292367DF00675429 /* UITextField+.swift in Sources */,
 				CEA59AD82923686100675429 /* Adjusted+.swift in Sources */,
